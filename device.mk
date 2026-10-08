@@ -72,10 +72,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0.vendor \
     vendor.qti.hardware.btconfigstore@2.0.vendor
 
-# Maintainer Flag
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.lunaris.maintainer=Mrandrey167
-
 # Bootanimation
 TARGET_BOOTANIMATION_HALF_RES := true
 
